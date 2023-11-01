@@ -5,7 +5,7 @@
 
   
 
-<img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/986a2184fe1b436e3b546f595ef2e501/static_badge_dark.png" />
+<img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/102dfdd9a092b8562b6548da02eee3e0/static_badge_dark.png" />
 
 <!---
 ljamel/ljamel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
